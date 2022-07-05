@@ -1,0 +1,4 @@
+.vscode/
+.idea/
+go-scaffold.log
+go-scaffold.error.log
